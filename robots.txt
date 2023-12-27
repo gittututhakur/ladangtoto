@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ladangtoto-jitu.de-rse.org/sitemap.xml
